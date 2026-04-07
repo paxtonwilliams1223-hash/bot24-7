@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PaxtonAndHenry2026.aternos.me",
+    "ip": "PaxtonAndHenry2026.aternos.me:40923",
     "port": 40923,
     "version": "",
     "try-creative": false
